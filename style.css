@@ -394,7 +394,7 @@ footer{
     header {
         padding-left: 20px;
         padding-right: 20px;
-        font-size: 12px;
+        font-size: 11px;
 }
     .left_sec h1{
         font-size: 25px;
@@ -410,6 +410,12 @@ footer{
     .left_sec_banner h1{
         font-size: 21px;
     }
+    
+    .left_sec_banner {
+        padding-bottom: 20px;
+    }
+
+
 
     .p1_text,.p2_text{
       text-align: start;
